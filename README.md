@@ -1,5 +1,5 @@
 # UIAD4022
-Repository for "Data Structure" course
+Repository for "Algorithm Design" course
  - Winter Semester 1402-1403
  - University of Isfahan
 
